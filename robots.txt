@@ -1,0 +1,4 @@
+Sitemap: https://ksu-sigai.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: ksu-sigai.github.io
