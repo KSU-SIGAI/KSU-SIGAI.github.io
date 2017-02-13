@@ -9,6 +9,15 @@ About Us
 We are a club at `Kansas State University`_ that focuses
 on Artificial Intelligence.
 
+----------------
+Current Officers
+----------------
+* President: Jeff Cook
+* Vice President: Luis Bobadilla
+* Treasurer: Joe Dasenbrock
+* Secretary: Zach Sliefert
+* Social Media Coordinator: Derek Christensen
+* Events Coordinator: Maria De La Torre
 
 Contact Information
 -------------------
